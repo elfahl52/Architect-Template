@@ -429,8 +429,9 @@ hr {
     color: #ffffffeb;
     background-color: #000;
 }
-.contact form input:focus{
-    border:1px solid  #2196F3;
+.contact form input:focus {
+    outline: 2px solid #007BFF;
+    background-color: #E0F0FF;
 }
 .contact {}
 @media(max-width:1200px)
