@@ -36,5 +36,13 @@ Architect-Template/
 ├── index.html
 └── README.md
 
+Architect-Template/
+├── css/
+│ └── style.css
+├── fontawesome-free-7.1.0-web/
+├── img/
+├── index.html
+└── README.md
+
 ## 👤 Developed By
 **[Khaled Elfahl]** 
