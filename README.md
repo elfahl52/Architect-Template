@@ -5,7 +5,7 @@
 
 ---
 
-## 🖼️ Preview
+## Preview
  
 # Architect-Template<img width="1920" height="3616" alt="screencapture-file-E-Front-end-CSS-practical-first-template-inde-html-2026-03-26-16_02_04" src="https://github.com/user-attachments/assets/7b4a0e0e-f045-4161-87b5-947ec5656c47" />
 # 🏛️ Architect-Template
